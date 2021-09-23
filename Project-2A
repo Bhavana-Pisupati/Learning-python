@@ -17,3 +17,4 @@ print(getTotalpopulation([ ["Pittsburgh", "Allegheny", 302407],
            ["Allentown", "Lehigh", 123838],
            ["Erie", "Erie", 97639],
            ["Scranton", "Lackawanna", 77182] ]))
+           
