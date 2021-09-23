@@ -1,0 +1,19 @@
+def maxlist(lst):
+   max=lst[0]
+   
+   for i in range(len(lst)):
+      if lst[i]>max:
+          max=lst[i]
+   return max
+print(maxlist([1,2,4,3]))
+
+def getTotalpopulation(cities):
+    population=0
+    for row in range(len(cities)):
+        population+= cities[row][2]
+    return population
+print(getTotalpopulation([ ["Pittsburgh", "Allegheny", 302407],
+           ["Philadelphia", "Philadelphia", 1584981],
+           ["Allentown", "Lehigh", 123838],
+           ["Erie", "Erie", 97639],
+           ["Scranton", "Lackawanna", 77182] ]))
