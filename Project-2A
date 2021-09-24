@@ -17,4 +17,33 @@ print(getTotalpopulation([ ["Pittsburgh", "Allegheny", 302407],
            ["Allentown", "Lehigh", 123838],
            ["Erie", "Erie", 97639],
            ["Scranton", "Lackawanna", 77182] ]))
-           
+
+def countitems(foodCounts):
+    count=0
+    for i in foodCounts:
+        print(foodCounts[i],i)
+        count+=foodCounts[i]
+    return count
+d = { "apples" : 5, "beets" : 2, "lemons" : 1 }
+print(countitems(d))
+
+def mostCommonFirstLetter(s):
+    word=s.split(" ")
+    x=""
+    for i in word:
+        x+=i[0]
+    d={}
+    for i in x:
+        if i in d:
+            d[i]+=1
+        else:
+            d[i]=1
+    max=0
+    for i in d:
+        if d[i]>max:
+            max=d[i]
+            common=i
+    return common
+a="do you have a voting plan for the election happening next month?"
+print(mostCommonFirstLetter(a))
+  
