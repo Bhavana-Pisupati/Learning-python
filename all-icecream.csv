@@ -1,0 +1,61 @@
+Semester,#1 original,#2 original,#3 original,#1 cleaned,#2 cleaned,#3 cleaned,#1 category,#2 category,#3 category
+S21,coffee,cookies and cream,mint chocolate chip,coffee,cookies and cream,mint chocolate chip,coffee/tea,cookie,chocolate
+S21,Chocolate chip cookie dough,Mint chocolate,Vanilla with chocolate syrup,chocolate chip cookie dough,mint chocolate,chocolate vanilla twist,cookie,chocolate,chocolate
+S21,coffee,choclate,vanilla,coffee,chocolate,vanilla,coffee/tea,chocolate,vanilla
+S21,Cookies and Cream,Coffee,Tiramisu,cookies and cream,coffee,tiramisu,cookie,coffee/tea,other
+S21,death by chcoclate,chocolate chip cookie dough,mint chip,death by chocolate,chocolate chip cookie dough,mint chocolate chip,chocolate,cookie,chocolate
+S21,chocolate,hazelnut,phish food,chocolate,hazelnut,phish food,chocolate,coffee/tea,chocolate
+S21,chocolate,cookie dough,cookies and cream,chocolate,cookie dough,cookies and cream,chocolate,cookie,cookie
+S21,Cookie Dough,Coffee,Mint Chocolate Chip,cookie dough,coffee,mint chocolate chip,cookie,coffee/tea,chocolate
+S21,Mint Chocolate Chip,Raspberry,Chocolate,mint chocolate chip,raspberry,chocolate,chocolate,fruit,chocolate
+S21,cotton candy,chocolate,cookie dough,cotton candy,chocolate,cookie dough,other,chocolate,cookie
+S21,Strawberry,Mint Chocolate Chip,Chocolate,strawberry,mint chocolate chip,chocolate,fruit,chocolate,chocolate
+S21,Tiramisu,Chocolate,Butterscotch,tiramisu,chocolate,butterscotch,other,chocolate,other
+S21,coffee,matcha,mint,coffee,matcha green tea,mint,coffee/tea,coffee/tea,other
+S21,cookie dough,raspberry sorbet,mint chip,cookie dough,raspberry sherbet,mint chocolate chip,cookie,fruit,chocolate
+S21,Mint w/o Chocolate Chips,Banana,Strawberry,mint,banana,strawberry,other,fruit,fruit
+,Coffee,Cookie dough,Vanilla,coffee,cookie dough,vanilla,coffee/tea,cookie,vanilla
+,Strawberry,Mango,Lemon ice,strawberry,mango,lemon ice,fruit,fruit,fruit
+,peppermint,chocolate,vanilla,peppermint,chocolate,vanilla,other,chocolate,vanilla
+,green tea,vanilla,cookies and cream,matcha green tea,vanilla,cookies and cream,coffee/tea,vanilla,cookie
+,Chocolate,Vanilla,Strawberry,chocolate,vanilla,strawberry,chocolate,vanilla,fruit
+,passion fruit,coconut,mango,passionfruit,coconut,mango,fruit,fruit,fruit
+,cookie dough,coffee,vanilla,cookie dough,coffee,vanilla,cookie,coffee/tea,vanilla
+,mint chocolate chip,cookie dough,vanilla,mint chocolate chip,cookie dough,vanilla,chocolate,cookie,vanilla
+,Ben & Jerry's Phish Food,Cherry Garcia,Mint Chocolate Chip,phish food,cherry garcia,mint chocolate chip,chocolate,fruit,chocolate
+,Birthday Cake,strawberry,chocolate,birthday cake,strawberry,chocolate,vanilla,fruit,chocolate
+,Mint Chocolate Chip,Half Baked,Chocolate,mint chocolate chip,half baked,chocolate,chocolate,chocolate,chocolate
+,coffee,rocky road,bubble gum,coffee,rocky road,bubble gum,coffee/tea,chocolate,other
+,Strawberry,Vanilla,Chocolate,strawberry,vanilla,chocolate,fruit,vanilla,chocolate
+,Oreo,Cookie Dough,Red Velvet,oreo,cookie dough,red velvet,cookie,cookie,other
+,chocolate,birthday cake,vanilla,chocolate,birthday cake,vanilla,chocolate,vanilla,vanilla
+,Chunky Monkey,Mint Chocolate Chip,Coffee,chunky monkey,mint chocolate chip,coffee,fruit,chocolate,coffee/tea
+,Yam,Vanilla,Oreo,yam,vanilla,oreo,other,vanilla,cookie
+,cherry,Matcha,Chocolate,cherry,matcha green tea,chocolate,fruit,coffee/tea,chocolate
+,Strawberry,Vanilla,chocolate chip,strawberry,vanilla,chocolate chip,fruit,vanilla,chocolate
+,dulce de leche,Vanilla,Coffee,dulce de leche,vanilla,coffee,other,vanilla,coffee/tea
+,Vanilla,Banana,Strawberry,vanilla,banana,strawberry,vanilla,fruit,fruit
+,Cookie Dough,Cookies and Cream,Triple Fudge Brownie,cookie dough,cookies and cream,fudge brownie,cookie,cookie,chocolate
+,Vanilla,Mocha,Strawberry,vanilla,mocha,strawberry,vanilla,coffee/tea,fruit
+,Butter Pecan,Cotton Candy,Mango,butter pecan,cotton candy,mango,other,other,fruit
+,Turtle,Cookies and Cream,Vanilla,turtle,cookies and cream,vanilla,chocolate,cookie,vanilla
+,Strawberry,Mint-Chocolate Chip,Vanilla,strawberry,mint chocolate chip,vanilla,fruit,chocolate,vanilla
+,Cookie Dough,Cookies + Cream,Vanilla,cookie dough,cookies and cream,vanilla,cookie,cookie,vanilla
+,Chocolate,Mint-Chocolate Chip,Cookie Dough,chocolate,mint chocolate chip,cookie dough,chocolate,chocolate,cookie
+,Mint,Strawberry,Vanilla,mint,strawberry,vanilla,other,fruit,vanilla
+,Mint Chocolate Chip,Coffee,Dulche de Leche,mint chocolate chip,coffee,dulce de leche,chocolate,coffee/tea,other
+,Chocolate mint chip,Chocolate,Strawberry,mint chocolate chip,chocolate,strawberry,chocolate,chocolate,fruit
+,Vanilla,Cookie Dough,chocolate chip,vanilla,cookie dough,chocolate chip,vanilla,cookie,chocolate
+,Vanilla,Cookies & Cream,sherbert,vanilla,cookies and cream,sherbet,vanilla,cookie,other
+,Vietnamese Coffee,Vanilla,Cookies and Cream,Vietnamese coffee,vanilla,cookies and cream,coffee/tea,vanilla,cookie
+,Vanilla,Strawberry,chocolate,vanilla,strawberry,chocolate,vanilla,fruit,chocolate
+,chocolate chip mint,Caramel,Cotton Candy,mint chocolate chip,caramel,cotton candy,chocolate,other,other
+,Mint Chocolate Chip,Cookies and Creme,Oreo,mint chocolate chip,cookies and cream,oreo,chocolate,cookie,cookie
+,Chocolate,Vanilla,Strawberry,chocolate,vanilla,strawberry,chocolate,vanilla,fruit
+,chocolate brownie/cookie dough,Cookies & Cream,Salted Caramel,chocolate brownie cookie dough,cookies and cream,salted caramel,other,cookie,other
+,Birthday Cake,Vanilla,Cookies and Cream,birthday cake,vanilla,cookies and cream,vanilla,vanilla,cookie
+,Coffee,Mint Chip,Vanilla,coffee,mint chocolate chip,vanilla,coffee/tea,chocolate,vanilla
+,Ginger,Mint Chocolate Chip,Pistachio,ginger,mint chocolate chip,pistachio,other,chocolate,other
+,mocha chip,Oreo,cherry garcia,mocha chip,oreo,cherry garcia,coffee/tea,cookie,fruit
+,Vanilla,Strawberry,Cookie Dough,vanilla,strawberry,cookie dough,vanilla,fruit,cookie
+,mint oreo,Coffee,peanut butter oreo,mint oreo,coffee,peanut butter oreo,cookie,coffee/tea,cookie
